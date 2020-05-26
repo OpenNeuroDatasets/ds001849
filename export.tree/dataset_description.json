@@ -1,0 +1,12 @@
+{
+    "Name": "RS_TMSEEG_Data",
+    "License": "CC0",
+    "Authors": [
+        "Michael Freedberg",
+        "Jack A. Reeves",
+        "Sara J. Hussain",
+        "Kareem A. Zaghloul",
+        "Eric M. Wassermann"
+    ],
+    "BIDSVersion": "2.7.0"
+}
