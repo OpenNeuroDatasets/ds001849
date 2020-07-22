@@ -1,0 +1,10 @@
+{ "InstitutionName": "National Institutes of Health",
+  "TaskName": "tmseegrest",
+  "Manufacturer": "Brain Vision",
+  "SamplingFrequency": 5000,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "EEGChannelCount": 30,
+  "RecordingType": "continuous",
+  "EEGPlacementScheme": "10-20",
+  "EEGReference": "CP4" }
